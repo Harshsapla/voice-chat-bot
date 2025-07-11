@@ -4,7 +4,7 @@
     "slug": "harsh-yadav-chatbot",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/favicon.webp",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -12,6 +12,7 @@
       "supportsTablet": true
     },
     "web": {
+      "name": "Harsh's Voice Chatbot",
       "bundler": "metro",
       "output": "single",
       "favicon": "./assets/images/favicon.webp"
